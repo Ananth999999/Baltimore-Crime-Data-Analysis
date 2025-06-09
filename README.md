@@ -4,7 +4,7 @@ This project performs an exploratory data analysis (EDA) of crime trends in Balt
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - **Source**: [Baltimore City Open Data Portal](https://data.baltimorecity.gov)
 - **File used**: `Part_1_Crime_Data.csv`
@@ -12,7 +12,7 @@ This project performs an exploratory data analysis (EDA) of crime trends in Balt
 
 ---
 
-## 🔍 Key Objectives
+##  Key Objectives
 
 - Load and clean the dataset by removing null columns
 - Extract year from crime timestamps
@@ -22,14 +22,14 @@ This project performs an exploratory data analysis (EDA) of crime trends in Balt
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 - Line chart showing crime trends from 2017 to 2022 for major crime types
 - Grouped statistics by Neighborhood and Year
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - Python
 - pandas
@@ -39,7 +39,7 @@ This project performs an exploratory data analysis (EDA) of crime trends in Balt
 
 ---
 
-## 🛠️ How to Run This Notebook
+##  How to Run This Notebook
 
 1. Clone this repository:
    ```bash
